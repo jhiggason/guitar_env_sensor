@@ -91,7 +91,7 @@ Compact and battery-powered (Li-ion 3.7V, 3000mAh)
 
 Precise temperature and humidity monitoring (Sensirion SHT45 sensor)
 
-Wi-Fi (MQTT) and BLE communication
+Wi-Fi (mdns) and BLE communication
 
 Deep sleep mode for extended battery life
 
